@@ -1,39 +1,99 @@
-<!-- Banner -->
 <p align="center">
-  <img src="Gemini_Generated_Image_sbpew4sbpew4sbpe.png" alt="Himanshu Gupta Banner" width="100%" style="border-radius: 12px;" />
+  <img src="Gemini_Generated_Image_sbpew4sbpew4sbpe.png" width="100%" style="border-radius:12px;" />
 </p>
 
-<!-- Heading -->
-<h1 align="center" style="font-size: 40px;">Hi 👋, I'm Himanshu Gupta</h1>
-<h3 align="center" style="color: gray;">🚀 Software Engineer | 💡 AI/ML Enthusiast</h3>
-
----
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;C%2B%2B+%7C+React+%7C+Node.js;AI%2FML+Learner;Open+Source+Contributor" />
-</p>
+<h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
+<h3 align="center">🚀 Software Engineer | 💡 AI/ML Enthusiast</h3>
 
 ---
 
 ### 💫 About Me
 
+<p align="center">
+🌱 Currently learning <b>AI/ML</b> <br/>
+💻 1000+ DSA Problems Solved <br/>
+🎯 Focus: <b>Full Stack Development</b> <br/>
+📧 himanshugpt0005@gmail.com
+</p>
+
+---
+
+### 💻 Tech Stack
 <div align="center">
+<p align="center">
 
-🌱 Currently learning **AI/ML**  
-💻 1000+ DSA Problems Solved  
-🎯 Focus: **Full Stack + System Design**  
-📧 **himanshugpt0005@gmail.com**
+<table>
+<tr>
+<td align="center" width="50%">
 
+### 🧑‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python,java" />
+
+</td>
+
+<td align="center" width="50%">
+
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</td>
+
+<td align="center">
+
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🤖 Machine Learning  
+<img src="https://skillicons.dev/icons?i=python" /><br/>
+<sub>Supervised • Unsupervised • Regression • Clustering</sub>
+
+</td>
+
+<td align="center">
+
+### 📚 ML Libraries  
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" /><br/>
+<sub>Matplotlib • Seaborn</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
+### 🛠️ Tools  
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+
+</td>
+</tr>
+
+</table>
+
+</p>
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### 🧠 Coding Platforms
 
 <p align="center">
-  <a href="https://linkedin.com/in/himanshu-gupta-8624a728a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.codechef.com/users/imanshu8083">
     <img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=codechef&logoColor=white"/>
@@ -45,15 +105,40 @@
 
 ---
 
-### 💻 Tech Stack
 
+### 🌐 Connect With Me
+<div align="center">
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nodejs,nextjs,mongodb,mysql,postgres,redis,docker,aws,firebase,tailwind,git" />
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://linkedin.com/in/himanshu-gupta-8624a728a">
+  <img src="https://skillicons.dev/icons?i=linkedin" /><br/>
+
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="mailto:himanshugpt0005@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" /><br/>
+  
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </p>
+</div>
 
 ---
+
 
 ### ✨ Quote
 
@@ -63,7 +148,6 @@
 
 ---
 
-<!-- Footer Image -->
 <p align="center">
-  <img src="0d0f900f-a635-4ca5-8b07-5d5f83a98421.jpg" width="80%" style="border-radius: 12px;" />
+  <img src="0d0f900f-a635-4ca5-8b07-5d5f83a98421.jpg" width="80%" style="border-radius:12px;" />
 </p>
